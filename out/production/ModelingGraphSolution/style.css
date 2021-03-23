@@ -1,0 +1,7 @@
+.root  {
+    -fx-background-image: url("http://img.crazys.info/files/pics/2017.02/photo148610739610.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 740 413;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 11,11);
+}
